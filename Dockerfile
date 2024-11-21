@@ -1,11 +1,9 @@
 
----
+
 
     ### **Dockerfile**
     
-    For a MERN project (`Node.js` backend, `React` frontend):
-    
-    ```dockerfile
+  
     # Multi-stage build for MERN Stack Project
     
     # --- Backend Stage ---
